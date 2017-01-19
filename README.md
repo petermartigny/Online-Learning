@@ -1,2 +1,2 @@
-# Online-Learning
-Online Learning, course @ ENSAE ParisTech
+# Online Learning
+Online Learning, course @ ENSAE ParisTech by [Pierre Alquier](http://alquier.ensae.net/)
